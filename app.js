@@ -114,7 +114,7 @@ function spr(){
 
         }
 
-        setTimeout(START(), 2500);
+        setTimeout(START(), 1000);
     }
 }
 
